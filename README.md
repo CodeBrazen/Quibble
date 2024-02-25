@@ -1,6 +1,6 @@
-<a href="https://github.com/ShivaBhattacharjee/Quibble">
+<a href="https://github.com/CodeBrazen/Quibble">
 <p align="center">
-  <img src="https://github.com/ShivaBhattacharjee/Quibble/assets/95211406/44e6dddd-1d56-46b8-9d31-707f91e78883" height="150px"/>
+  <img src="https://github.com/CodeBrazen/Quibble/assets/95211406/44e6dddd-1d56-46b8-9d31-707f91e78883" height="150px"/>
   </a>
 <br/>
   <h3 align="center">Quibble</h3>
@@ -10,7 +10,7 @@
 
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-![GitHub repo size](https://img.shields.io/github/repo-size/shivabhattacharjee/Quibble)
+![GitHub repo size](https://img.shields.io/github/repo-size/CodeBrazen/Quibble)
 
 
   </div>
@@ -20,9 +20,9 @@
     <br/>
     <a href="https://quibbleai.vercel.app/">View Demo</a>
     .
-    <a href="https://github.com/ShivaBhattacharjee/Quibble/issues">Report Bug</a>
+    <a href="https://github.com/CodeBrazen/Quibble/issues">Report Bug</a>
     .
-    <a href="https://github.com/ShivaBhattacharjee/Quibble/issues">Request Feature</a>
+    <a href="https://github.com/CodeBrazen/Quibble/issues">Request Feature</a>
   </p>
 </p>
 
@@ -48,8 +48,8 @@
 - [Authors](#authors)
 
 ## About The Project
-![Screenshot from 2024-01-20 09-53-44](https://github.com/ShivaBhattacharjee/Quibble/assets/95211406/914f6d78-9707-42c1-b4f4-20aeef5ca987)
-![Screenshot from 2024-01-20 10-21-05](https://github.com/ShivaBhattacharjee/Quibble/assets/95211406/897d4339-4781-4736-9300-ac1604c48a28)
+![Screenshot from 2024-01-20 09-53-44](https://github.com/CodeBrazen/Quibble/assets/95211406/914f6d78-9707-42c1-b4f4-20aeef5ca987)
+![Screenshot from 2024-01-20 10-21-05](https://github.com/CodeBrazen/Quibble/assets/95211406/897d4339-4781-4736-9300-ac1604c48a28)
 
 Quibble, a content generation bot, simplifies and elevates your creative process. Whether crafting engaging blog posts, soulful song lyrics, or attention-grabbing Insta captions, Quibble's advanced algorithms seamlessly transform your ideas into polished, professional content. Say farewell to creative blocks as Quibble becomes your reliable partner, delivering tailored and compelling creations that align with your unique style and preferences. Elevate your content game effortlessly with Quibble at your side.
 
@@ -82,7 +82,7 @@ Get api keys from :-
 ### Local
 ```Rename .env.example to .env.local and fill the required fields```
 ```bash
-git clone https://github.com/ShivaBhattacharjee/Quibble
+git clone https://github.com/CodeBrazen/Quibble
 ```
 ```
 cd Quibble
@@ -102,24 +102,24 @@ Image will be available soon
 ## Host your own
 * ## Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FShivaBhattacharjee%2FQuibble)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FCodeBrazen%2FQuibble)
 <br/>
 <br/>
 
 * ## Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ShivaBhattacharjee/Quibble)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CodeBrazen/Quibble)
 <br/>
 <br/>
 
 * ## Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ShivaBhattacharjee/Quibble)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/CodeBrazen/Quibble)
 
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/ShivaBhattacharjee/Quibble/issues) to discuss it
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/CodeBrazen/Quibble/issues) to discuss it
 
 * Please make sure you check your spelling and grammar.
 
@@ -136,7 +136,7 @@ Wanna contribute to Quibble ?
 
 ## Raising an issue
 
-If you're experiencing any problems with Quibble, please be sure to review our [issue template](https://github.com/ShivaBhattacharjee/Quibble/tree/main/.github/ISSUE_TEMPLATE) before opening a new issue. The template includes a list of questions and prompts that will help us better understand the issue you're experiencing, and it will ensure that we have all of the necessary information to investigate the problem.
+If you're experiencing any problems with Quibble, please be sure to review our [issue template](https://github.com/CodeBrazen/Quibble/tree/main/.github/ISSUE_TEMPLATE) before opening a new issue. The template includes a list of questions and prompts that will help us better understand the issue you're experiencing, and it will ensure that we have all of the necessary information to investigate the problem.
 
 We kindly ask that you provide as much detail as possible when submitting an issue, including steps to reproduce the problem, any error messages that you have seen, and any other relevant information. This will help us to identify and fix the issue more quickly.
 
@@ -144,13 +144,13 @@ Thank you for your cooperation, and we look forward to hearing from you!
 
 ## Code of conduct
 
-Developers are requested to go through our <a href="https://github.com/ShivaBhattacharjee/Quibble/blob/main/CODE_OF_CONDUCT.md">code of conduct</a> thoroughly to maintain a peaceful environment within our project.
+Developers are requested to go through our <a href="https://github.com/CodeBrazen/Quibble/blob/main/CODE_OF_CONDUCT.md">code of conduct</a> thoroughly to maintain a peaceful environment within our project.
 
 ## License
 
-Distributed under the Apache License 2.0 . See [LICENSE](https://github.com/ShivaBhattacharjee/Quibble/blob/main/LICENSE) for more information.
+Distributed under the Apache License 2.0 . See [LICENSE](https://github.com/CodeBrazen/Quibble/blob/main/LICENSE) for more information.
 
 
 ## Authors
 
-* **Shiva Bhattacharjee** - [Shiva Bhattacharjee](https://github.com/ShivaBhattacharjee) - *Quibble*
+* **CodeBrazen** - [CodeBrazen](https://github.com/CodeBrazen) - *Quibble*

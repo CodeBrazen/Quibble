@@ -13,7 +13,7 @@ const page = () => {
                         <Route />
                         Get Started
                     </Link>
-                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/ShivaBhattacharjee/Quibble" className="flex duration-200 hover:scale-95 gap-3 items-center border-2 font-medium tracking-wider border-white/20 p-3 md:p-5 md:text-lg rounded-md">
+                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/CodeBrazen/Quibble" className="flex duration-200 hover:scale-95 gap-3 items-center border-2 font-medium tracking-wider border-white/20 p-3 md:p-5 md:text-lg rounded-md">
                         <Github /> Star on Github
                     </a>
                 </div>
